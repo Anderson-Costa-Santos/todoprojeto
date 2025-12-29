@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/todoprojeto/static/css/main.7e14e469.css",
-    "main.js": "/todoprojeto/static/js/main.83706f2b.js",
+    "main.css": "/todoprojeto/static/css/main.f483166f.css",
+    "main.js": "/todoprojeto/static/js/main.ad461278.js",
     "static/media/folha.jpg": "/todoprojeto/static/media/folha.86237005d94c97fd5dc5.jpg",
     "index.html": "/todoprojeto/index.html",
-    "main.7e14e469.css.map": "/todoprojeto/static/css/main.7e14e469.css.map",
-    "main.83706f2b.js.map": "/todoprojeto/static/js/main.83706f2b.js.map"
+    "main.f483166f.css.map": "/todoprojeto/static/css/main.f483166f.css.map",
+    "main.ad461278.js.map": "/todoprojeto/static/js/main.ad461278.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e14e469.css",
-    "static/js/main.83706f2b.js"
+    "static/css/main.f483166f.css",
+    "static/js/main.ad461278.js"
   ]
 }
