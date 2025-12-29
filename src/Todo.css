@@ -134,8 +134,8 @@ button {
     
     border: none;
     border-radius: 50%;
-    width: 32px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
     margin-left: 6px;
     cursor: pointer;
     transition: transform 0.2s;
@@ -187,8 +187,8 @@ body.dark form button {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 35px;
-    height: 35px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     background-color: #00bfa5;
     border: none;
@@ -202,7 +202,7 @@ body.dark form button {
     justify-content: center;
     align-items: center;
     font-size: 28px;             /* tamanho do emoji */
-    transform: translateY(-30px); /* sobe o emoji */
+    transform: translateY(-2px); /* sobe o emoji */
 }
 
 

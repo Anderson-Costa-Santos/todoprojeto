@@ -1,12 +1,12 @@
-import React from 'react';
+import React from "react";
 
-function DoneImg({ done }) {
-  return (
-    <img 
-      src={done ? "./assets/check.png" : "./assets/wait.png"} 
-      alt={done ? "check" : "wait"} 
-    />
-  );
+function DoneImg({ done, checkImg }) {
+  if (done) {
+    return <img src={checkImg} alt="check" />;
+  } else {
+    return <img src={require('../assets/wait.png')} alt="wait" />;
+  }
 }
 
 export default DoneImg;
+

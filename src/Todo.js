@@ -54,7 +54,7 @@ function Todo() {
         onClick={() => setDarkMode(!darkMode)}
         style={{ marginBottom: '20px' }}
       >
-        {darkMode ? '☀️' : '🌙'}
+        <span className="emoji">{darkMode ? '☀️' : '🌙'}</span>
       </button>
             <TodoForm onAddItem={onAddItem} />
             <List items={items} onDone={onDone} onItemDeleted={onItemDeleted} />
